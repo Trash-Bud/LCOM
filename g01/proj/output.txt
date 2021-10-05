@@ -1,0 +1,11 @@
+VG INIT 
+Opened file! 
+highest score name: AAAUEL
+line: 2
+
+highest score: 2
+Read old configs succefully!
+Set the timer frequency to 60Hz
+VG INIT 
+VG INIT 
+VG INIT 

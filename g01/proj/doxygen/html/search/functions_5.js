@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['handle_5fanimation_304',['handle_animation',['../animations_8c.html#a9eed724b1109d7a4c3036e117d515a9a',1,'handle_animation(struct Animation *anim, int ticks_to_wait, bool reversed):&#160;animations.c'],['../animations_8h.html#a9eed724b1109d7a4c3036e117d515a9a',1,'handle_animation(struct Animation *anim, int ticks_to_wait, bool reversed):&#160;animations.c']]],
+  ['handle_5fball_5fmovement_305',['handle_ball_movement',['../logic_8c.html#a5190ccdbf85b7b2e2ee03a26114706a7',1,'handle_ball_movement(int *waiting_frames):&#160;logic.c'],['../logic_8h.html#a5190ccdbf85b7b2e2ee03a26114706a7',1,'handle_ball_movement(int *waiting_frames):&#160;logic.c']]],
+  ['handle_5fmenu_5fevents_306',['handle_menu_events',['../logic_8c.html#a1ad13f145271a5c920dd6fbc5560288c',1,'handle_menu_events(struct Sprite A[], unsigned int size):&#160;logic.c'],['../logic_8h.html#a1ad13f145271a5c920dd6fbc5560288c',1,'handle_menu_events(struct Sprite A[], unsigned int size):&#160;logic.c']]],
+  ['handlehovermenu_307',['handleHoverMenu',['../logic_8c.html#af98b760a01706ee4211ed50d3501d3be',1,'handleHoverMenu(struct Sprite A[], unsigned int size):&#160;logic.c'],['../logic_8h.html#af98b760a01706ee4211ed50d3501d3be',1,'handleHoverMenu(struct Sprite A[], unsigned int size):&#160;logic.c']]],
+  ['handlepowerupspawn_308',['handlePowerUpSpawn',['../power__up_8c.html#a69156bab874aba641af95f9c32822020',1,'handlePowerUpSpawn():&#160;power_up.c'],['../power__up_8h.html#a69156bab874aba641af95f9c32822020',1,'handlePowerUpSpawn():&#160;power_up.c']]],
+  ['handleremovepowerup_309',['handleRemovePowerUp',['../power__up_8c.html#ab4c7809cbbc96057ba4addc0cc4703b7',1,'handleRemovePowerUp():&#160;power_up.c'],['../power__up_8h.html#ab4c7809cbbc96057ba4addc0cc4703b7',1,'handleRemovePowerUp():&#160;power_up.c']]]
+];

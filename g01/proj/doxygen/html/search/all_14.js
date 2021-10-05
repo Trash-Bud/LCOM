@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['w_5fkey_233',['W_KEY',['../group__i8042.html#ga8cb726577cd35fc0582744b2270e192f',1,'i8042.h']]],
+  ['wait_5fkbc_234',['WAIT_KBC',['../group__i8042.html#gaa554763d6a066605edecacdea834da9b',1,'i8042.h']]],
+  ['width_235',['width',['../struct_sprite.html#a2474a5474cbff19523a51eb1de01cda4',1,'Sprite']]],
+  ['winscreen_236',['WinScreen',['../logic_8c.html#ab3c0d9ee7e37ca3ffa00cc03534bff94',1,'WinScreen():&#160;UI_elements.c'],['../proj_8c.html#aa794c2edc05725684677ef5333df7f16',1,'WinScreen():&#160;UI_elements.c'],['../_u_i__elements_8c.html#ab3c0d9ee7e37ca3ffa00cc03534bff94',1,'WinScreen():&#160;UI_elements.c'],['../video__gr_8c.html#ab3c0d9ee7e37ca3ffa00cc03534bff94',1,'WinScreen():&#160;UI_elements.c']]],
+  ['write_5fargument_5fto_5fmouse_237',['write_argument_to_mouse',['../mouse_8c.html#a92e4a14386ad2dbd01ebf126a76da677',1,'write_argument_to_mouse(uint8_t argument):&#160;mouse.c'],['../mouse_8h.html#a92e4a14386ad2dbd01ebf126a76da677',1,'write_argument_to_mouse(uint8_t argument):&#160;mouse.c']]],
+  ['write_5fcommand_238',['WRITE_COMMAND',['../group__i8042.html#gad1953a1338ab589f5dd289a90a904bec',1,'i8042.h']]],
+  ['write_5fdate_5fto_5fscreen_239',['write_date_to_screen',['../video__gr_8c.html#a4d57bb8dbda2f6c57fa64ddf13c7a43e',1,'write_date_to_screen(struct Date date, int x, int y, int color):&#160;video_gr.c'],['../video__gr_8h.html#a4d57bb8dbda2f6c57fa64ddf13c7a43e',1,'write_date_to_screen(struct Date date, int x, int y, int color):&#160;video_gr.c']]],
+  ['write_5fhighscore_5fto_5ffile_240',['write_highscore_to_file',['../logic_8c.html#abc2e876947ae8a1b43b1cfcbff22f1ea',1,'write_highscore_to_file():&#160;logic.c'],['../logic_8h.html#abc2e876947ae8a1b43b1cfcbff22f1ea',1,'write_highscore_to_file():&#160;logic.c']]],
+  ['write_5fnumber_5fto_5fscreen_241',['write_number_to_screen',['../video__gr_8c.html#abe08bde1f3db4a51794c34615a3d07cb',1,'write_number_to_screen(int number, int x, int y, int color):&#160;video_gr.c'],['../video__gr_8h.html#abe08bde1f3db4a51794c34615a3d07cb',1,'write_number_to_screen(int number, int x, int y, int color):&#160;video_gr.c']]],
+  ['write_5fsmall_5fnumber_5fto_5fscreen_242',['write_small_number_to_screen',['../video__gr_8c.html#a255de3b0eadede53e281e8fa4ceed55c',1,'write_small_number_to_screen(int number, int x, int y, int color):&#160;video_gr.c'],['../video__gr_8h.html#a255de3b0eadede53e281e8fa4ceed55c',1,'write_small_number_to_screen(int number, int x, int y, int color):&#160;video_gr.c']]],
+  ['write_5fword_5fto_5fscreen_243',['write_word_to_screen',['../video__gr_8c.html#a51ba0c2abec5fe06c877a73c51e20c41',1,'write_word_to_screen(char word[], int size, int x, int y, int color):&#160;video_gr.c'],['../video__gr_8h.html#a51ba0c2abec5fe06c877a73c51e20c41',1,'write_word_to_screen(char word[], int size, int x, int y, int color):&#160;video_gr.c']]],
+  ['writingname_244',['writingName',['../logic_8c.html#a9d3d284930a7d56127b40561274ac913',1,'writingName():&#160;logic.c'],['../proj_8c.html#a9d3d284930a7d56127b40561274ac913',1,'writingName():&#160;proj.c']]],
+  ['writingtopointlimit_245',['writingToPointLimit',['../logic_8c.html#aa182c432c12b2823bcf2c1074fad25c5',1,'writingToPointLimit():&#160;proj.c'],['../proj_8c.html#aa182c432c12b2823bcf2c1074fad25c5',1,'writingToPointLimit():&#160;proj.c']]],
+  ['writingtotimelimit_246',['writingToTimeLimit',['../logic_8c.html#ae9d03db8086d89dee05e0179ef710b7b',1,'writingToTimeLimit():&#160;logic.c'],['../proj_8c.html#ae9d03db8086d89dee05e0179ef710b7b',1,'writingToTimeLimit():&#160;proj.c']]]
+];

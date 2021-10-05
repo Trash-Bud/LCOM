@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['i8042_71',['i8042',['../group__i8042.html',1,'']]],
+  ['i8042_2eh_72',['i8042.h',['../i8042_8h.html',1,'']]],
+  ['i8254_73',['i8254',['../group__i8254.html',1,'']]],
+  ['i8254_2eh_74',['i8254.h',['../i8254_8h.html',1,'']]],
+  ['in_5fbuff_75',['IN_BUFF',['../group__i8042.html#gacc061e13affe5f1303e9a7e1b28fcf42',1,'i8042.h']]],
+  ['in_5fmenu_76',['in_menu',['../logic_8c.html#ab0efabc0c2d25dbcf663fbe94e9b9cbe',1,'in_menu():&#160;proj.c'],['../proj_8c.html#ab0efabc0c2d25dbcf663fbe94e9b9cbe',1,'in_menu():&#160;proj.c']]],
+  ['include_5fxpms_2eh_77',['include_xpms.h',['../include__xpms_8h.html',1,'']]],
+  ['increase_5fplayer_5fsize_5fpower_5fup_5ffunction_78',['increase_player_size_power_up_function',['../power__up_8c.html#acaff7dbd4ead1b22016d6651d2dea615',1,'increase_player_size_power_up_function():&#160;power_up.c'],['../power__up_8h.html#acaff7dbd4ead1b22016d6651d2dea615',1,'increase_player_size_power_up_function():&#160;power_up.c']]],
+  ['ingame_79',['inGame',['../logic_8c.html#ab6df1872027554e16d6f0fecce3b3753',1,'inGame():&#160;proj.c'],['../proj_8c.html#ab6df1872027554e16d6f0fecce3b3753',1,'inGame():&#160;proj.c']]],
+  ['initialize_5fplayers_80',['initialize_players',['../logic_8c.html#a61bc5c3d6a45c13365f8d467aa9a3bed',1,'initialize_players():&#160;logic.c'],['../logic_8h.html#a61bc5c3d6a45c13365f8d467aa9a3bed',1,'initialize_players():&#160;logic.c']]],
+  ['initialize_5fpowerups_81',['initialize_powerUps',['../power__up_8c.html#abff739d6d383f044f206c2aafc33427c',1,'initialize_powerUps():&#160;power_up.c'],['../power__up_8h.html#abff739d6d383f044f206c2aafc33427c',1,'initialize_powerUps():&#160;power_up.c']]],
+  ['input_5fbuffer_5farguments_82',['INPUT_BUFFER_ARGUMENTS',['../group__i8042.html#ga727f73f94247554b6c804fb2b6381761',1,'i8042.h']]],
+  ['input_5fbuffer_5fcommands_83',['INPUT_BUFFER_COMMANDS',['../group__i8042.html#ga42623faaacf8f8d4d780650277a79856',1,'i8042.h']]],
+  ['invalid_5fbyte_84',['INVALID_BYTE',['../group__i8042.html#ga768cd6ee9a3460aad2b16a0e097dd060',1,'i8042.h']]],
+  ['irq0_85',['IRQ0',['../group__i8042.html#ga8885a13da4dafeb2cb209ce1b7ec3107',1,'i8042.h']]],
+  ['irq1_86',['IRQ1',['../group__i8042.html#ga37360776bcc1dd3b5da93b025177551f',1,'IRQ1():&#160;i8042.h'],['../group__i8254.html#ga37360776bcc1dd3b5da93b025177551f',1,'IRQ1():&#160;i8254.h']]],
+  ['irq12_87',['IRQ12',['../group__i8042.html#ga57276d1481230d81d2bba849f935ce5a',1,'i8042.h']]],
+  ['irq8_88',['IRQ8',['../rtc_8c.html#ad299f4a78ead6e9f10cfa55376be25ac',1,'IRQ8():&#160;rtc.c'],['../rtc_8h.html#ad299f4a78ead6e9f10cfa55376be25ac',1,'IRQ8():&#160;rtc.h']]],
+  ['is_5fball_5fcolliding_5fwith_5fpowerup_89',['is_ball_colliding_with_powerUp',['../power__up_8c.html#aedbdbfb78769b5394e1df4deb8ca9eb7',1,'is_ball_colliding_with_powerUp(struct PowerUp *power_up):&#160;power_up.c'],['../power__up_8h.html#aedbdbfb78769b5394e1df4deb8ca9eb7',1,'is_ball_colliding_with_powerUp(struct PowerUp *power_up):&#160;power_up.c']]],
+  ['is_5fcolliding_90',['is_colliding',['../logic_8c.html#a3cf050cb240cb5a1033b2c66dcc12089',1,'is_colliding(int x, int y):&#160;logic.c'],['../logic_8h.html#a3cf050cb240cb5a1033b2c66dcc12089',1,'is_colliding(int x, int y):&#160;logic.c']]],
+  ['is_5ferror_91',['IS_ERROR',['../group__i8042.html#ga8f42a765a5cef471e7bc2a628f1a8859',1,'i8042.h']]],
+  ['is_5fok_92',['IS_OK',['../group__i8042.html#ga0d10eae685a9b5c36c07ecc6b142264f',1,'i8042.h']]],
+  ['is_5fsync_93',['is_sync',['../mouse_8c.html#aa39c8fc4c2cec00ec7f94ecf5d56cb32',1,'mouse.c']]],
+  ['issue_5fcommand_5fto_5fthe_5fmouse_94',['ISSUE_COMMAND_TO_THE_MOUSE',['../group__i8042.html#ga068afb0f0f4be2e069f02e92390a500c',1,'i8042.h']]]
+];

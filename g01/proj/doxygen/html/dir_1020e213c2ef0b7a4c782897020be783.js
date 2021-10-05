@@ -1,0 +1,26 @@
+var dir_1020e213c2ef0b7a4c782897020be783 =
+[
+    [ "animations.c", "animations_8c.html", "animations_8c" ],
+    [ "animations.h", "animations_8h.html", "animations_8h" ],
+    [ "i8042.h", "i8042_8h.html", "i8042_8h" ],
+    [ "i8254.h", "i8254_8h.html", "i8254_8h" ],
+    [ "include_xpms.h", "include__xpms_8h.html", null ],
+    [ "keyboard.c", "keyboard_8c.html", "keyboard_8c" ],
+    [ "keyboard.h", "keyboard_8h.html", "keyboard_8h" ],
+    [ "logic.c", "logic_8c.html", "logic_8c" ],
+    [ "logic.h", "logic_8h.html", "logic_8h" ],
+    [ "mouse.c", "mouse_8c.html", "mouse_8c" ],
+    [ "mouse.h", "mouse_8h.html", "mouse_8h" ],
+    [ "power_up.c", "power__up_8c.html", "power__up_8c" ],
+    [ "power_up.h", "power__up_8h.html", "power__up_8h" ],
+    [ "proj.c", "proj_8c.html", "proj_8c" ],
+    [ "rtc.c", "rtc_8c.html", "rtc_8c" ],
+    [ "rtc.h", "rtc_8h.html", "rtc_8h" ],
+    [ "timer.c", "timer_8c.html", "timer_8c" ],
+    [ "UI_elements.c", "_u_i__elements_8c.html", "_u_i__elements_8c" ],
+    [ "UI_elements.h", "_u_i__elements_8h.html", "_u_i__elements_8h" ],
+    [ "utils.c", "utils_8c.html", "utils_8c" ],
+    [ "video_gr.c", "video__gr_8c.html", "video__gr_8c" ],
+    [ "video_gr.h", "video__gr_8h.html", "video__gr_8h" ],
+    [ "xpm_converter.py", "xpm__converter_8py.html", "xpm__converter_8py" ]
+];

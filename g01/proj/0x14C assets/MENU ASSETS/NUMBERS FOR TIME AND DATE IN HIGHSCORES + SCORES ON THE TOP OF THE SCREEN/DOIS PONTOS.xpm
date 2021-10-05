@@ -1,0 +1,21 @@
+/* XPM */
+static xpm_row_t const dois_pontos_[] = {
+/* columns rows colors chars-per-pixel */
+"6 13 2 1 ",
+"  c #000000",
+". c None",
+/* pixels */
+".    .",
+"      ",
+"      ",
+"      ",
+".    .",
+"......",
+"......",
+"......",
+".    .",
+".     ",
+"      ",
+"      ",
+".    ."
+};

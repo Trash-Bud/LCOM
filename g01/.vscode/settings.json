@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.xpm": "c",
+        "array": "c",
+        "chrono": "c",
+        "functional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "__functional_base": "c",
+        "__functional_base_03": "c",
+        "__tuple": "c",
+        "limits": "c",
+        "memory": "c",
+        "map": "c",
+        "__tree": "c"
+    }
+}

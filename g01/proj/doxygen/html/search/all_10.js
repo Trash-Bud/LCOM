@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['s_5fkey_173',['S_KEY',['../group__i8042.html#ga38916d959d471a2781d390910271b6b5',1,'i8042.h']]],
+  ['scancode_174',['scancode',['../struct_sprite.html#aa1de7a5557e9d96b83cf03f73c92163f',1,'Sprite::scancode()'],['../keyboard_8c.html#aa1de7a5557e9d96b83cf03f73c92163f',1,'scancode():&#160;keyboard.c'],['../logic_8c.html#aa1de7a5557e9d96b83cf03f73c92163f',1,'scancode():&#160;keyboard.c'],['../proj_8c.html#aa1de7a5557e9d96b83cf03f73c92163f',1,'scancode():&#160;keyboard.c']]],
+  ['score_175',['score',['../struct_player.html#aef160b7437d94056f1dc59646cd5b87d',1,'Player::score()'],['../logic_8c.html#ab4bd883246107ee4ca955ec8579f8714',1,'score():&#160;proj.c'],['../power__up_8c.html#ab4bd883246107ee4ca955ec8579f8714',1,'score():&#160;proj.c'],['../proj_8c.html#ab4bd883246107ee4ca955ec8579f8714',1,'score():&#160;proj.c'],['../_u_i__elements_8c.html#ab4bd883246107ee4ca955ec8579f8714',1,'score():&#160;proj.c'],['../video__gr_8c.html#ab4bd883246107ee4ca955ec8579f8714',1,'score():&#160;proj.c']]],
+  ['second_176',['second',['../struct_date.html#a7ab95bf164c7490d2855a7efcea6784a',1,'Date']]],
+  ['second_5fregister_177',['SECOND_REGISTER',['../rtc_8h.html#a73695c886eb45a0f2f268cda38f786e0',1,'rtc.h']]],
+  ['set_5fanimation_5finitial_5fframe_178',['set_animation_initial_frame',['../animations_8c.html#a5f37bc77d321b53f51f9cf10ea3c60c0',1,'set_animation_initial_frame(struct Animation *anim, int counter):&#160;animations.c'],['../animations_8h.html#a5f37bc77d321b53f51f9cf10ea3c60c0',1,'set_animation_initial_frame(struct Animation *anim, int counter):&#160;animations.c']]],
+  ['set_5fremote_5fmode_179',['SET_REMOTE_MODE',['../group__i8042.html#ga19a57d9d2eafd32ee130c0f526906719',1,'i8042.h']]],
+  ['set_5fstream_5fmode_180',['SET_STREAM_MODE',['../group__i8042.html#gaabf49b4a4d8ad72d202c8a7197058e35',1,'i8042.h']]],
+  ['size_5fmenu_181',['size_menu',['../logic_8c.html#a1d35ccc0367b14ac65845445b546b118',1,'size_menu():&#160;UI_elements.c'],['../proj_8c.html#a1d35ccc0367b14ac65845445b546b118',1,'size_menu():&#160;UI_elements.c'],['../_u_i__elements_8c.html#a1d35ccc0367b14ac65845445b546b118',1,'size_menu():&#160;UI_elements.c'],['../video__gr_8c.html#a1d35ccc0367b14ac65845445b546b118',1,'size_menu():&#160;UI_elements.c']]],
+  ['size_5fof_5fhighscore_5fname_182',['size_of_highscore_name',['../logic_8c.html#a16b5739b3bdf87c862ee421e7e518590',1,'size_of_highscore_name():&#160;logic.c'],['../proj_8c.html#a16b5739b3bdf87c862ee421e7e518590',1,'size_of_highscore_name():&#160;logic.c'],['../video__gr_8c.html#a16b5739b3bdf87c862ee421e7e518590',1,'size_of_highscore_name():&#160;logic.c']]],
+  ['small_5fnumbers_183',['small_numbers',['../logic_8c.html#a89968439e7c90d0ec09c9c2382fefbec',1,'small_numbers():&#160;UI_elements.c'],['../proj_8c.html#a89968439e7c90d0ec09c9c2382fefbec',1,'small_numbers():&#160;UI_elements.c'],['../_u_i__elements_8c.html#a89968439e7c90d0ec09c9c2382fefbec',1,'small_numbers():&#160;UI_elements.c'],['../video__gr_8c.html#a89968439e7c90d0ec09c9c2382fefbec',1,'small_numbers():&#160;UI_elements.c']]],
+  ['sprite_184',['Sprite',['../struct_sprite.html',1,'Sprite'],['../struct_player.html#ae20b9f27facfd3287704fbacd5d9b26f',1,'Player::sprite()'],['../struct_ball.html#ad317b4ed4c3232d65560129a4e0289e2',1,'Ball::sprite()']]],
+  ['sprite1_185',['sprite1',['../struct_sprite.html#a17ca74ecb2440283b99df2dee327348c',1,'Sprite']]],
+  ['status_5fregister_186',['STATUS_REGISTER',['../group__i8042.html#gaade608c2b485d0c1238c401e073bbbdc',1,'i8042.h']]],
+  ['sys_5fflag_187',['SYS_FLAG',['../group__i8042.html#ga70ba5cfd6ec32ae0b141b32f232d5ca2',1,'i8042.h']]]
+];

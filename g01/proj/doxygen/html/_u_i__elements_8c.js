@@ -1,0 +1,26 @@
+var _u_i__elements_8c =
+[
+    [ "load_mode_0x110", "_u_i__elements_8c.html#a520484f17c85f94fd4f586168ce6bc97", null ],
+    [ "load_mode_0x115", "_u_i__elements_8c.html#a70f69dbd26b28aaf74d1fc8d1b9792cd", null ],
+    [ "load_mode_0x11A", "_u_i__elements_8c.html#acd98fce8e8048e8e4e0ee1a7ca65ab53", null ],
+    [ "load_mode_0x14C", "_u_i__elements_8c.html#a159a631f5bc109422fbaf0b3e5098e95", null ],
+    [ "ball_", "_u_i__elements_8c.html#a4deffed7d978136be9c39832061de9de", null ],
+    [ "big_numbers_and_letters", "_u_i__elements_8c.html#a86711b1bc88c2bef05335e3026abede0", null ],
+    [ "GameType", "_u_i__elements_8c.html#add864d21a6e5a0d566046a97f9dda0be", null ],
+    [ "GameTypePointLimit", "_u_i__elements_8c.html#a4660c6d348aac7e723cdef4b3e1ab843", null ],
+    [ "GameTypeTimeLimit", "_u_i__elements_8c.html#ace9b88f9db68c54b83fbb1a970d19221", null ],
+    [ "HighScores", "_u_i__elements_8c.html#af56b77cf342e2ea3463aa331db48dba3", null ],
+    [ "HoverButtons", "_u_i__elements_8c.html#aadf31c46fab5b5d0713b6bcd7f8b4e18", null ],
+    [ "MainMenuSprites", "_u_i__elements_8c.html#a2d1b9465b43251904e7f495a7a943522", null ],
+    [ "mouse", "_u_i__elements_8c.html#ad8c2aac92519c54e01def0d8650c544b", null ],
+    [ "PauseScreen", "_u_i__elements_8c.html#adf70c70ba178b783bac74eb0e568c7b0", null ],
+    [ "player2", "_u_i__elements_8c.html#a864cb1d46e3ac23e407d075b108ae2bb", null ],
+    [ "Power_ups", "_u_i__elements_8c.html#a647ba7549e831103304595c08fc5ede2", null ],
+    [ "ResolutionsMenu", "_u_i__elements_8c.html#aad9c76b4e3c8a49844aac631e598a4c2", null ],
+    [ "score", "_u_i__elements_8c.html#ab4bd883246107ee4ca955ec8579f8714", null ],
+    [ "size_menu", "_u_i__elements_8c.html#a1d35ccc0367b14ac65845445b546b118", null ],
+    [ "small_numbers", "_u_i__elements_8c.html#a89968439e7c90d0ec09c9c2382fefbec", null ],
+    [ "type", "_u_i__elements_8c.html#a3d239e319572a244f84a97b564ac9dbd", null ],
+    [ "vmi_p", "_u_i__elements_8c.html#a26081be7a771e5c611b33f15caaf831e", null ],
+    [ "WinScreen", "_u_i__elements_8c.html#ab3c0d9ee7e37ca3ffa00cc03534bff94", null ]
+];

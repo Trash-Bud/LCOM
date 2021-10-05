@@ -1,0 +1,11 @@
+/* XPM */
+static xpm_row_t const travessao_small[] = {
+/* columns rows colors chars-per-pixel */
+"9 3 2 1 ",
+"  c #000000",
+". c None",
+/* pixels */
+".       .",
+"         ",
+".       ."
+};

@@ -1,0 +1,13 @@
+/* XPM */
+static xpm_row_t const SMALLTRAVESSAO_[] = {
+/* columns rows colors chars-per-pixel */
+"15 5 2 1 ",
+"  c #000000",
+". c None",
+/* pixels */
+"..           ..",
+".              ",
+".              ",
+".              ",
+".             ."
+};

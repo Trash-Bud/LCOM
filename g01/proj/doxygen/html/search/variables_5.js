@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['game_5ftype_385',['game_type',['../logic_8c.html#a52f2042d338f856dbb910b44be556dee',1,'game_type():&#160;proj.c'],['../proj_8c.html#a52f2042d338f856dbb910b44be556dee',1,'game_type():&#160;proj.c']]],
+  ['gametype_386',['GameType',['../logic_8c.html#add864d21a6e5a0d566046a97f9dda0be',1,'GameType():&#160;UI_elements.c'],['../proj_8c.html#add864d21a6e5a0d566046a97f9dda0be',1,'GameType():&#160;UI_elements.c'],['../_u_i__elements_8c.html#add864d21a6e5a0d566046a97f9dda0be',1,'GameType():&#160;UI_elements.c'],['../video__gr_8c.html#add864d21a6e5a0d566046a97f9dda0be',1,'GameType():&#160;UI_elements.c']]],
+  ['gametypepointlimit_387',['GameTypePointLimit',['../logic_8c.html#a4660c6d348aac7e723cdef4b3e1ab843',1,'GameTypePointLimit():&#160;UI_elements.c'],['../proj_8c.html#a4660c6d348aac7e723cdef4b3e1ab843',1,'GameTypePointLimit():&#160;UI_elements.c'],['../_u_i__elements_8c.html#a4660c6d348aac7e723cdef4b3e1ab843',1,'GameTypePointLimit():&#160;UI_elements.c'],['../video__gr_8c.html#a4660c6d348aac7e723cdef4b3e1ab843',1,'GameTypePointLimit():&#160;UI_elements.c']]],
+  ['gametypetimelimit_388',['GameTypeTimeLimit',['../logic_8c.html#ace9b88f9db68c54b83fbb1a970d19221',1,'GameTypeTimeLimit():&#160;UI_elements.c'],['../proj_8c.html#ace9b88f9db68c54b83fbb1a970d19221',1,'GameTypeTimeLimit():&#160;UI_elements.c'],['../_u_i__elements_8c.html#ace9b88f9db68c54b83fbb1a970d19221',1,'GameTypeTimeLimit():&#160;UI_elements.c'],['../video__gr_8c.html#ace9b88f9db68c54b83fbb1a970d19221',1,'GameTypeTimeLimit():&#160;UI_elements.c']]]
+];

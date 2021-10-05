@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['character_5fnumber_15',['character_number',['../logic_8c.html#a215a92770bc4bf28cfb43bd750fea842',1,'character_number():&#160;proj.c'],['../proj_8c.html#a215a92770bc4bf28cfb43bd750fea842',1,'character_number():&#160;proj.c'],['../video__gr_8c.html#a215a92770bc4bf28cfb43bd750fea842',1,'character_number():&#160;proj.c']]],
+  ['checkifequal_16',['checkIfEqual',['../logic_8c.html#ac891fc1d350c68af5553054504842b7f',1,'checkIfEqual(struct Sprite A[], struct Sprite B[], unsigned int size):&#160;logic.c'],['../logic_8h.html#ac891fc1d350c68af5553054504842b7f',1,'checkIfEqual(struct Sprite A[], struct Sprite B[], unsigned int size):&#160;logic.c']]],
+  ['checkifpaused_17',['checkIfPaused',['../logic_8c.html#aaa65c37f5186dab8b11bcc574b601b60',1,'checkIfPaused():&#160;logic.c'],['../logic_8h.html#aaa65c37f5186dab8b11bcc574b601b60',1,'checkIfPaused():&#160;logic.c']]],
+  ['cnt_18',['cnt',['../utils_8c.html#a9cfbb269728dc4185236d28be58d9eab',1,'utils.c']]],
+  ['colision_19',['colision',['../logic_8c.html#ada06c282c175358ab5f3091205dd3c90',1,'colision(struct Player *player):&#160;logic.c'],['../logic_8h.html#ada06c282c175358ab5f3091205dd3c90',1,'colision(struct Player *player):&#160;logic.c']]],
+  ['collect_5fpower_5fup_20',['collect_power_up',['../power__up_8c.html#a9bf25da0f88c8300a8b30516db0c590f',1,'collect_power_up(struct PowerUp *power_up):&#160;power_up.c'],['../power__up_8h.html#a9bf25da0f88c8300a8b30516db0c590f',1,'collect_power_up(struct PowerUp *power_up):&#160;power_up.c']]],
+  ['control_5fplayer1_21',['control_player1',['../logic_8c.html#a3efb1f41574827517495645f99466abd',1,'control_player1():&#160;logic.c'],['../logic_8h.html#a3efb1f41574827517495645f99466abd',1,'control_player1():&#160;logic.c']]],
+  ['control_5fplayer2_22',['control_player2',['../logic_8c.html#a28cb3557420520868e694cb2062bb84b',1,'control_player2():&#160;logic.c'],['../logic_8h.html#a28cb3557420520868e694cb2062bb84b',1,'control_player2():&#160;logic.c']]],
+  ['copyarray_23',['copyArray',['../logic_8c.html#aaebcc15d946d98e7c547dc2471cb4be6',1,'copyArray(struct Sprite A[], unsigned int size):&#160;logic.c'],['../logic_8h.html#aaebcc15d946d98e7c547dc2471cb4be6',1,'copyArray(struct Sprite A[], unsigned int size):&#160;logic.c']]],
+  ['counter_24',['counter',['../logic_8c.html#a617a47c70795bcff659815ad0efd2266',1,'counter():&#160;mouse.c'],['../mouse_8c.html#a617a47c70795bcff659815ad0efd2266',1,'counter():&#160;mouse.c'],['../proj_8c.html#a617a47c70795bcff659815ad0efd2266',1,'counter():&#160;mouse.c']]],
+  ['counter_5finitial_25',['counter_initial',['../struct_power_up.html#abe2a3281d79d9756307936bd98c5422c',1,'PowerUp']]],
+  ['counter_5ftimer_26',['counter_timer',['../animations_8c.html#abdd2eef1d70041de463214f2f9469f4d',1,'counter_timer():&#160;timer.c'],['../power__up_8c.html#abdd2eef1d70041de463214f2f9469f4d',1,'counter_timer():&#160;timer.c'],['../proj_8c.html#abdd2eef1d70041de463214f2f9469f4d',1,'counter_timer():&#160;timer.c'],['../timer_8c.html#abdd2eef1d70041de463214f2f9469f4d',1,'counter_timer():&#160;timer.c']]],
+  ['create_5fmouse_27',['create_mouse',['../logic_8c.html#adbcbc0c32d27663f192796d80b2669a4',1,'create_mouse():&#160;logic.c'],['../logic_8h.html#adbcbc0c32d27663f192796d80b2669a4',1,'create_mouse():&#160;logic.c']]],
+  ['current_5fframe_28',['current_frame',['../struct_animation.html#a612981dddda556478c74123512c5fd1f',1,'Animation']]],
+  ['current_5fsprite_29',['current_sprite',['../struct_player.html#a6c532969498efe30e831a15714996fdc',1,'Player']]],
+  ['currentmenu_30',['CurrentMenu',['../logic_8c.html#a956cbbc6b3ed9344f219c952448e3104',1,'CurrentMenu():&#160;proj.c'],['../proj_8c.html#a956cbbc6b3ed9344f219c952448e3104',1,'CurrentMenu():&#160;proj.c'],['../video__gr_8c.html#a956cbbc6b3ed9344f219c952448e3104',1,'CurrentMenu():&#160;proj.c']]]
+];
